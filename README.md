@@ -107,7 +107,6 @@ This dashboard helps the business:
 
 ## 🖼 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ![Dashboard](dash11.png)
 
