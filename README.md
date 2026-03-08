@@ -32,6 +32,7 @@ The dashboard answers the following key business questions:
 * Microsoft Excel
 * Power Query (ETL Process)
 * Power Pivot (Data Modeling & Measures)
+* DAX
 * Pivot Tables and Pivot Charts
 * Slicers and Timeline Filters
 
